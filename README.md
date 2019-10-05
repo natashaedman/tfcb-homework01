@@ -1,5 +1,5 @@
 # tfcb-homework01
-## 2019-10-03
+2019-10-03
 
 Main project page: [homework01](https://github.com/natashaedman/tfcb-homework01)
 
